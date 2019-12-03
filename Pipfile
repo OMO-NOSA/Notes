@@ -12,10 +12,7 @@ psycopg2-binary = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
 flask-cli = "*"
-0-11-0 = "*"
+mistune = "*"
 
 [requires]
 python_version = "3.7"
-
-
-/home/nosa/Documents/projects/flask/notes
